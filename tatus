@@ -1,0 +1,38 @@
+[33mcommit 428c512e0a58a6f0876e1e99556701aabcc8e4f8[m[33m ([m[1;36mHEAD -> [m[1;32mexercicios/3.3[m[33m)[m
+Author: Valoide <fillipevaloide@gmail.com>
+Date:   Wed May 11 12:12:20 2022 -0300
+
+    alterações do dia 3/3 finalizadas
+
+[33mcommit 2ef6b7f0c16734998393a9bc30f546e102cff035[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: b27ea08 605d933
+Author: Fillipe S G Valoide <104857998+Valoide@users.noreply.github.com>
+Date:   Tue May 10 16:13:49 2022 -0300
+
+    Merge pull request #1 from Valoide/exercicios/3.2
+    
+    Exercicios/3.2
+
+[33mcommit 605d933bca54bc60d574b23869b2d4c8c0de6502[m[33m ([m[1;31morigin/exercicios/3.2[m[33m, [m[1;32mexercicios/3.2[m[33m)[m
+Author: Valoide <fillipevaloide@gmail.com>
+Date:   Tue May 10 16:01:25 2022 -0300
+
+    Alterei a cor de fundo e adicionei tags na descrição
+
+[33mcommit b8c6b1b61ba2d3017381a02cfc87e0ea6fee3640[m
+Author: Valoide <fillipevaloide@gmail.com>
+Date:   Tue May 10 15:48:03 2022 -0300
+
+    Alterei as fontes do meu nome de da minha descrição
+
+[33mcommit b27ea08789d1376d7e21343fc3bf3b22fa3acc2d[m
+Author: Valoide <fillipevaloide@gmail.com>
+Date:   Tue May 10 12:32:22 2022 -0300
+
+    Esboço do portifolio
+
+[33mcommit 6e7faccd6e4d80ccc946c09daaee0c708f5e3c6f[m
+Author: Fillipe S G Valoide <104857998+Valoide@users.noreply.github.com>
+Date:   Tue May 10 11:28:16 2022 -0300
+
+    Initial commit

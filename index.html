@@ -4,62 +4,39 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
     <title>Portifólio</title>
 
-    <style>
-
-        h2 {
-            color: rgb(202, 210, 197)
-            
-        }
-
-
-        body{
-            background-color: rgb(47, 62, 70);
-
-        }   
-        
-        #sobremim{
-            background-color: lightslategrey;
-        }
-
-
-        .list-style{
-            background-color:firebrick;
-            color: white;
-        }
-
-        #name{
-            font-family:sans-serif;
-            color: rgb(107, 144, 128) ;
-        }
-
-        #description{
-            font-family: freesans;
-        }
-       
-
-    </style>
+    <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
 <body>
 
+    <div id="header">
+
         <h1 id="name">Fillipe Silva Gomes Valoide</h1>
 
-        <h2></h2>
 
-        <img src="RostoTrocar.jpg" width="250px" alt="">
-        <p id="description">Um esboço de um rosto, pois ainda estou fazendo o escopo
-        da página <br> e não tenhum uma foto descente para colocar no lugar.
-        </p>
+        <div id="fotodesc">
 
+        <img src="Eu.jpeg" id="foto" width="250px" alt="">
+        <p id="description">Seja bem vindo ao meu portifólio! <br> 
+            Meu primeiro site durante o curso da Trybe.
+            <br> Pretendo manter o site atualizado sempre e fazer <br> melhorias gradativas ao longo do curso e de <br>
+             minha formação profissional.  
+
+        </div>
+
+    </div>
         <h2>Sobre Mim</h2>
-        <p id="sobremim">Tenho 21 anos e como voê já viu no começo da página, meu nome é Fillipe, ja sou tecnico de informática
+        <div id="about">
+            <p>Tenho 21 anos e como voê já viu no começo da página, meu nome é Fillipe, ja sou tecnico de informática
             e decidi sair do meu antigo emprego para investir mais na minha carreira enquanto 
             ainda sou novo e tenho mais energia e disponibilidade.  Gosto de pão de queijo pois sou <strong>mineiro</strong>
             e quero me tornar uma pessoa desenvolvedora <em>(Vulgo: <strong> Garoto de programa)</STRong>.</em>
-        </p>
-
+            </p>
+        </div>
         <h2 id="abilidades">Abilidades</h2>
 
         <ul class="list-style">
@@ -70,7 +47,7 @@
         <li>Cabeludo</li>
         <li>engraçado</li>
         <li>Facilidade em aprender</li>
-        <li> <strong> Cozinhar </strong></li>
+        <li>Cozinhar</li>
         
         </ul>
         

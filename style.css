@@ -1,0 +1,62 @@
+h2 {
+    color: rgb(202, 210, 197)
+    
+}
+
+
+body{
+    background-color: rgb(47, 62, 70);
+    padding: 1%;
+}   
+
+#about{
+    background-color: lightslategrey;
+}
+
+
+.list-style{
+    background-color:firebrick;
+    color: white;
+}
+
+#name{
+    font-family:sans-serif;
+    color: rgb(107, 144, 128) ;
+    text-align: center;
+}
+
+#description{
+    font-family: freesans;
+    text-align: right;
+    position: relative;
+    right: 1%;
+    top: 150px;
+}
+
+#foto{
+    float: right;
+    width: 250px;
+    padding: 10px;
+    background-color: black;
+}
+
+#header{
+
+}
+
+#fotodesc{
+    height: 305px;
+    position: relative;
+}
+
+ul li:nth-child(odd){
+        font-weight: bold;
+}
+
+
+
+
+
+div{
+    border: 2px solid yellow;
+}
